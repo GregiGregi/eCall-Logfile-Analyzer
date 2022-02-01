@@ -1,0 +1,5 @@
+CO-AREA;Leistungsart;Sender-KST;ACTTYPE;Menge;Buchungstext;Kostenstelle;Innenauftrag;PSP-Element;Kundenauftrag;Auftragsposition;Vmod;Remark;Hilfsspalte;Limit;Zielmenge;BezeichnungSAP
+;100;;;;Kunde 1;;;;;;;;;;;
+;101;;;1;41441234567 Faxnummer von XYZ;;;;;;;;;;;
+;102;;;1;41441234567 SMS Empfangsnummer - Kunde X;;;;;;;;;;;
+;103;;;1;SMS Grundgebuehr fuer die Domain X;;;;;;;;;;;
